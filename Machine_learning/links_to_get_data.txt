@@ -1,0 +1,6 @@
+data
+
+training data: https://drive.google.com/file/d/1cZBEjlmy45U4sq2qdFG5E-WLV0L5DXJ3/view?usp=sharing
+
+validation data: https://drive.google.com/file/d/1E_pActTVWZsoE132Avf-1ppJuJsdfrzf/view?usp=sharing
+
